@@ -8,7 +8,7 @@
 'use strict';
 
 const chalk = require('chalk');
-const findUp = require('find-up');
+import { findUp } from 'find-up';
 const path = require('path');
 
 class ModuleNotFoundPlugin {
