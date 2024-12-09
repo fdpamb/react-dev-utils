@@ -73,7 +73,7 @@
     "prompts": "^2.4.2",
     "react-error-overlay": "github:fdpamb/react-error-overlay",
     "recursive-readdir": "^2.2.3",
-    "shell-quote": "^1.8.1",
+    "shell-quote": "^1.8.2",
     "strip-ansi": "^6.0.1",
     "text-table": "^0.2.0"
   },
