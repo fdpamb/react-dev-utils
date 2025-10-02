@@ -53,7 +53,7 @@
   "dependencies": {
     "@babel/code-frame": "^7.27.1",
     "address": "^2.0.3",
-    "browserslist": "^4.26.2",
+    "browserslist": "^4.26.3",
     "chalk": "^4.1.2",
     "cross-spawn": "^7.0.6",
     "detect-port-alt": "^1.1.6",
@@ -85,7 +85,7 @@
   },
   "overrides": {
     "webpack": {
-      "es5-ext": "0.10.53"
+      "es5-ext": "github:fdpamb/es5-ext#patch-upgrade-0.10.64"
     }
   }
 }
